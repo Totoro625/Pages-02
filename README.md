@@ -4,5 +4,5 @@
 
 | 分类     | 网址                                                | 备注                       |
 | :------- | :-------------------------------------------------- | :------------------------- |
-| 主站     | [totoro.ink](https://totoro.ink/)                   | GitHub pages + Cloudflare  |
+| 主站     | [totoro.ink](https://totoro.ink/)                   | GitHub pages |
 | 二级镜像 | [totoro625.pages.dev](https://totoro625.pages.dev/) | Cloudflare pages (Git同步) |
